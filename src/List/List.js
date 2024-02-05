@@ -4,6 +4,7 @@ import AddIcon from "@mui/icons-material/Add";
 import SendIcon from "@mui/icons-material/Send";
 
 // getting current Date, Time and Month from Date Object
+// this is new comment
 const today = new Date();
 const date = today.getDate();
 const daysOptions = { weekday: "long" };
