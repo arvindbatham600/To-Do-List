@@ -39,7 +39,7 @@ const List = () => {
   };
 
   const handleKeyPress = (e) => {
-    if (e.key == "Enter") {
+    if (e.key === "Enter") {
       handleAddButton();
       handleAddTask();
     }

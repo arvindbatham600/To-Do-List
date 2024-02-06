@@ -1,7 +1,6 @@
 import React from "react";
 import List from "./List/List";
 
-// this is new comment 
 
 function App() {
   return (
