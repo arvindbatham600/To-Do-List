@@ -1,10 +1,12 @@
-import React from 'react'
-import List  from './List/List';
+import React from "react";
+import List from "./List/List";
+
+// this is new comment 
 
 function App() {
   return (
     <div className="App">
-   <List />
+      <List />
     </div>
   );
 }
